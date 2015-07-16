@@ -1,5 +1,5 @@
 # INF1301-Paciencia-Spider
-Game "Paciencia Spider" (Spider Solitaire) from lecture "INF1301 Programação Modular" (Modular Programming)
+Game "Paciencia Spider" (Spider Solitaire) from lecture "INF1301 Programação Modular" (Modular Programming) (PUC-RIO University)
 
 The game is composed by 8 modules
 
@@ -18,3 +18,6 @@ SEQFINAL: The module final sequence.
 MONTE: The module of stack of cards to buy.
 
 PRINCIPAL: The main module which implements the game.
+_____
+The game and the comments were made in portuguese because of the lecture rules.
+Group: Thiago Klein, Andre Parente, Ilan Grynszpan
