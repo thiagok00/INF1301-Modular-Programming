@@ -13,7 +13,7 @@
 *
 *  $HA Histórico de evolução:
 *     Versão  Autor    Data     Observações
-*	  2		  adp	28/abr/2015 ajuste em erros
+*	  2		  thk	28/abr/2015 ajuste em erros
 *     1       thk   16/abr/2015 início desenvolvimento
 *
 ***************************************************************************/

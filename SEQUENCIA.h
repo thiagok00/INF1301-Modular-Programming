@@ -18,8 +18,8 @@
 *     Versão  Autor    Data			Observações
 *	  4		  thk	25/maio/2015	finalizado para entrega3
 *	  3       thk   28/abr/2015		mudança das condiçoes de retorno
-*	  2		  adp   27/abr/2015		implentacao de novas funçoes
-*	  1		  ilg   27/abr/2015		inicio desenvolvimento
+*	  2		  thk   27/abr/2015		implentacao de novas funçoes
+*	  1		  thk   27/abr/2015		inicio desenvolvimento
 *
 *  $ED Descrição do módulo
 *	Modulo implementa estrutura para uma sequência de cartas, pode-se existir

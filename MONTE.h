@@ -16,8 +16,8 @@
 *
 *  $HA Histórico de evolução:
 *     Versão  Autor    Data     Observações
-*	  3       adp   29/04/2015  ajustes nos comentarios e condições de retorno
-*	  2		  ilg	21/04/2015  término de desenvolvimento da versão 1
+*	  3       thk   29/04/2015  ajustes nos comentarios e condições de retorno
+*	  2		  thk	21/04/2015  término de desenvolvimento da versão 1
 *     1       ilg   20/abr/2015 início desenvolvimento
 *
 *

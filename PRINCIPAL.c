@@ -700,7 +700,6 @@ printf("\n*");
 printf("\n* Parabens voce ganhou o jogo!");
 printf("\n*");
 printf("\n***********************************\n\n");
-
 system("pause");
 return;
 }

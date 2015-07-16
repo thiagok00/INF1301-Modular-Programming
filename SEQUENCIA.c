@@ -14,8 +14,8 @@
 *  $HA Histórico de evolução:
 *     Versão  Autor    Data     Observações
 *	  3       thk   28/abr/2015 mudança das condiçoes de retorno
-*	  2		  adp   27/abr/2015 implentacao de novas funçoes
-*	  1		  ilg   27/abr/2015	inicio desenvolvimento
+*	  2		  thk   27/abr/2015 implentacao de novas funçoes
+*	  1		  thk   27/abr/2015	inicio desenvolvimento
 *
 ***************************************************************************/
 

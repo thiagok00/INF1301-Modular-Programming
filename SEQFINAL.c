@@ -13,8 +13,8 @@
 *
 *  $HA Histórico de evolução:
 *     Versão  Autor    Data     Observações
-*		3		ilg	  29/abr/2017	fim do desenvolvimento para entrega
-*		2		adp	  28/abr/2015	conserto de funçoes
+*		3		thk	  29/abr/2017	fim do desenvolvimento para entrega
+*		2		thk	  28/abr/2015	conserto de funçoes
 *		1       thk   27/abr/2015	início desenvolvimento
 *
 ***************************************************************************/

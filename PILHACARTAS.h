@@ -18,9 +18,9 @@
 *  $HA Histórico de evolução:
 *     Versão  Autor    Data			Observações
 *	  4		  thk	25/maio/2015	finalizado para entrega3
-*	  3       ilg   28/abr/2015		mudança de retorno de funçoes
-*	  2		  adp   27/abr/2015		implentacao de novas funçoes
-*	  1		  adp   25/abr/2015		inicio desenvolvimento
+*	  3       thk   28/abr/2015		mudança de retorno de funçoes
+*	  2		  thk   27/abr/2015		implentacao de novas funçoes
+*	  1		  thk   25/abr/2015		inicio desenvolvimento
 *
 *  $ED Descrição do módulo
 *     Implementa estrutura para uma pilha de cartas 

@@ -17,8 +17,8 @@
 *  $HA Histórico de evolução:
 *     Versão  Autor    Data			Observações
 *		4		thk	  25/maio/2015  finalizado para entrega 3
-*		3		ilg	  29/abr/2015	fim do desenvolvimento para entrega2
-*		2		adp	  28/abr/2015	conserto de funçoes
+*		3		thk	  29/abr/2015	fim do desenvolvimento para entrega2
+*		2		thk	  28/abr/2015	conserto de funçoes
 *		1       thk   27/abr/2015	início desenvolvimento
 *
 *  $ED Descrição do módulo
