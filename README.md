@@ -1,5 +1,5 @@
 # INF1301-Paciencia-Spider
-Game "Paciencia Spider" (Spider Solitaire) from lecture "INF1301 Programação Modular" (Modular Programming) (PUC-RIO University)
+Game "Paciencia Spider" (Spider Solitaire) from lecture "INF1301 Programação Modular" (Modular Programming) (Pontifical Catholic University of Rio de Janeiro)
 
 The game is composed by 8 modules
 
